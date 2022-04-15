@@ -204,8 +204,3 @@ url = input("Enter URL: ")
 
 # Call the main function
 main(url)
-
-# Repeat option
-choice = input("\nRepeat? [Y/N]: ")
-while choice == "Y".upper():
-    main(url)
