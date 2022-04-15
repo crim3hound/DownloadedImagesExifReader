@@ -37,4 +37,5 @@ Attempting to download and save 9 image(s) to 'picsum.photos_20220415_175214'
 
 ````
 ### Result
-![](../../Downloads/2022-04-15 17_55_05-picsum.photos_20220415_175311.png)
+![2022-04-15 17_55_05-picsum photos_20220415_175311](https://user-images.githubusercontent.com/29301735/163586612-a9c0fc67-de29-4318-a876-62763f9958cb.png)
+
